@@ -12,9 +12,12 @@ if delivery == True:
   print('Balik byl predan kuryrovi.')
 else:
   print('Balik zatim nebyl predan kuryrovi.')
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+>>>>>>> ba8802d664f9367d9c417407ad60b83e863d9ca0
